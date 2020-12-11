@@ -1,2 +1,2 @@
-# Awesome-TinyML
+# Awesome TinyML
 Awesome TinyML
